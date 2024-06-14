@@ -1,6 +1,6 @@
-# metabase-geojson
+# GeoJSON Maps for Metabase
 
-This Repo contains all the Geojson data for all the differnt geographical-regions within the UK
+This Repo contains all the Geojson data for all the different geographical regions within the UK:
 - England
 - Scotland
 - Wales
